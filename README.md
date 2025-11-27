@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark Preetham</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-- 🌱 I’m currently studying **Masters in Data Analytics in Business**
+- 🌱 I’m currently studying **Masters in Data Analytics in Business at Seattle Pacific University**
 
 - 💬 Ask me about **Data Analytics, Python**
 
